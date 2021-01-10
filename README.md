@@ -1,2 +1,2 @@
 # kattis
-Solutions to Kattis problems that I wrote.
+My solutions to Kattis problems.
